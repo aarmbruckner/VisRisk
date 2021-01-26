@@ -1,0 +1,6 @@
+{
+  "name": "PoolView",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PoolView.js"
+}

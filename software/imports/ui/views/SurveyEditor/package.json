@@ -1,0 +1,6 @@
+{
+  "name": "SurveyEditor",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SurveyEditor.jsx"
+}

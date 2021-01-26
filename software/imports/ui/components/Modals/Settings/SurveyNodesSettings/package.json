@@ -1,0 +1,6 @@
+{
+  "name": "SurveyNodeSettingsModal",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SurveyNodeSettingsModal.jsx"
+}

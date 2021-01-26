@@ -1,0 +1,267 @@
+{
+  "_locale": "en-US",
+  "_namespace": "common",
+  "info":
+  {
+    "version" : "Version"
+  },
+  "exceptions":
+  {
+    "mailSendError":"E-Mail could not be sent"
+  },
+  "mails":
+  {
+    "defaultLoginTokenEmailText":"Loginurl für Riskestimationrecorder: ",
+    "surveyText":"Valid for the following survey: "
+  },
+  "loginPage":
+  {
+    "username": "username",
+    "password": "password",
+    "loginFailed": "login failed",
+    "login": "login",
+    "signIn":"login",
+    "connectionRefused": "Connection refused.",
+    "connectionTimeOut": "Connection timed out. ",
+    "noLoginInfoProvided": "No login info provided!",
+    "wrongPassword": "Wrong password",
+    "accessDenied":"Access refused",
+    "sessionLoggedOff":"Session logged off.",
+    "passwordIncorrect": "Password incorrect",
+    "noUserFound": "No user found."
+  },
+  "sidebar":
+  {
+    "menu": "Menu",
+    "dashboard": "Overview",
+    "grid": "Current diagram",
+    "log": "Log",
+    "pool": "Pooling",
+    "simulation": "Simulation",
+    "surveyEditor": "Survey Editor",
+    "templates": "Templates",
+    "userEditor":"User Editor"
+  },
+  "header":
+  {
+    "dashboard": "Overview",
+    "username": "Username",
+    "file":"File",
+    "settings":"Settings",
+    "help":"Help",
+    "logout":"Logout"
+  },
+  "topMenu":
+  {
+    "selectSurvey": "Select Survey: ",
+    "selectSurveyNode": "Select Question: ",
+    "description":"Description: ",
+    "node":"Node",
+    "uncleaned":"uncleaned",
+    "cleaned":"cleaned",
+    "revertToOrigin":"revert to origin",
+    "saveChanges":"save changes",
+    "pool":"pool"
+  },
+  "commonUI":
+  {
+    "OK":"OK",
+    "Cancel":"Cancel",
+    "SubmitNewItem":"Add as new item"
+  },
+  "log":
+  {
+    "logMessageSummary":
+    {
+      "impactFrom":"Impact from",
+      "to":"to",
+      "likehoodFrom":"Likehood from"
+    },
+    "surveyFinished":"Survey completed!"
+  },
+  "modals":
+  {
+    "settings":{
+      "header":"Settings",
+      "xAxis":"X-Axis",
+      "yAxis":"Y-Axis",
+      "save":"save",
+      "GridHeader":"Grid",
+      "CalculationsHeader":"Calculations"
+    },
+    "gridModal":{
+      "xAxisHeader":"X-Axis",
+      "yAxisHeader":"Y-Axis"
+    },
+    "axisModal":{
+      "Name":"Name",
+      "AddSubLevel":"Add sub-level",
+      "SubLevels":"Sub-levels",
+      "SubLevel":"Sub-level",
+      "Description":"Description",
+      "defaultBorder":"Threshold value",
+      "Borders":"Borders",
+      "enable":"enable",
+      "Text":"Text",
+      "add":"add",
+      "remove":"remove",
+      "up":"up",
+      "down":"down"
+    },
+    "calculationsModal":{
+      "OpinionPooling":"Opinion Pooling",
+      "decimalPointAcc":"Decimal point accuracy",
+      "Epsilon":"Epsilon",
+      "dataCorrection":"Data Correction",
+      "percentageX":"percentage X",
+      "percentageY":"percentage Y",
+      "enableManualDelta":"enable manual delta",
+      "deltaXLow":"Delta X Low",
+      "deltaXHigh":"Delta X High",
+      "deltaYLow":"Delta Y Low",
+      "deltaYHigh":"Delta Y High"
+    },
+    "opinionModal":{
+      "header":"Opinion Pooling",
+      "decimalPointAccuracy":"Decimal Point accuracy",
+      "Epsilon":"Epsilon",
+      "decimalRange":"(0 <= x <= 15)",
+      "epsilonRange":"(0.0 < x <= 1.0)"
+    },
+    "surveyEditor":{
+      "surveyHeader":"Surveys",
+      "surveyNodeHeader":"Questions",
+      "surveyTable":
+      {
+        "surveyName":"Name",
+        "surveyDescription":"Description",
+        "delete":"Delete",
+        "surveyNumber":"#",
+        "surveyId":"Id"
+      },
+      "surveyDetails":
+      {
+        "surveyName":"Name",
+        "surveyDescription":"Description",
+        "advancedOptions":"Advanced Settings"
+      },
+      "surveyNodeTable":
+      {
+        "surveyNodeName":"Name",
+        "delete":"Delete",
+        "surveyNodeDescription":"Description",
+        "surveyNodeNumber":"#",
+        "surveyNodeId":"Id"
+      },
+      "surveyNodeDetails":
+      {
+        "surveyName":"Name",
+        "surveyDescription":"Description",
+        "advancedOptions":"Advanced Settings",
+        "numberOfVotes":"Number of possible votes"
+      }
+    },
+    "userEditor":{
+      "userHeader":"Users",
+      "userTable":
+      {
+        "userName":"Username",
+        "delete":"delete",
+        "userDescription":"Description",
+        "userId":"Id",
+        "userNumber":"#",
+        "userEmail":"E-Mail"
+      },
+      "userDetails":
+      {
+        "advancedOptions":"Advanced Settings",
+        "userName":"Username",
+        "delete":"delete",
+        "userDescription":"Description",
+        "userId":"Id",
+        "userNumber":"#",
+        "userEmail":"E-Mail",
+        "userPassword":"Password",
+        "adminRole":"Administrator",
+        "userRole":"User",
+        "userRoles":"User roles",
+        "loginToken":"Logintoken"
+      }
+    },
+    "dataCorrectionModal":{
+      "header":"Data Correction",
+      "percentageX":"percentage X",
+      "percentageY":"percentage Y",
+      "enableManualDelta":"enable manual delta",
+      "deltaXLow":"Delta X Low",
+      "deltaXHigh":"Delta X High",
+      "deltaYLow":"Delta Y Low",
+      "deltaYHigh":"Delta Y High",
+      "percentageXRange":"(0.0 <= x <= 0.5)",
+      "percentageYRange":"(0.0 <= x <= 0.5)",
+      "deltaXLowRange":"(0.0 <= x <= 1.0)",
+      "deltaXHighRange":"(0.0 <= x <= 1.0)",
+      "deltaYLowRange":"(0.0 <= x <= 1.0)",
+      "deltaYHighRange":"(0.0 <= x <= 1.0)"
+    },
+    "userModal":{
+      "loginToken":"Logintoken",
+      "generateToken":"generate logintoken",
+      "sendToken":"send logintoken via e-mail",
+      "loginTokenSubject":"Riskestimationrecorder Logintoken"
+    },
+    "surveyModal":{
+      "participants":"Participants",
+      "administrators":"Administrators",
+      "email":"E-Mail",
+      "username":"Username",
+      "inviteEmailParticipant":"Invite participant via email",
+      "inviteEmailAdministrator":"Invite administrator via email"
+    }
+  },
+  "graphContainer":
+  {
+    "events":
+    {
+      "saveToLogSuccess":"Saving to log was sucessfull",
+      "saveToLogFailure":"Saving to log failed",
+      "logGraphFailure":"Could not load log",
+      "logGraphSaveFailure":"Could not save graph to log",
+      "logClearedSuccess":"Log successfully deleted",
+      "logClearedFailure":"Could not delete log",
+      "failure":"Error"
+    },
+    "axes":
+    {
+      "impactScale":
+      {
+        "low":"Low",
+        "lowDescription":"A low impact such that no review would be required by any project stakeholder.",
+        "medium":"Medium",
+        "mediumDescription":"Moderate impact to the project scope, schedule, cost or quality, that would require explicit review and approval by the project manager.",
+        "high":"High",
+        "highDescription":"Significant damage to the project scope, schedule, cost or quality.",
+        "impact":"Impact"
+      },
+      "likelihoodScale":
+      {
+        "low":"Low",
+        "lowDescription":"Incident could occur, less than 10% likelihood projects like this.",
+        "medium":"Medium",
+        "mediumDescription":"Likely that it will happen several times per year, 10-50% likelihood in projects like this.",
+        "high":"High",
+        "highDescription":"Likely that it will happen several times per year, more than 50% likelihood projects like this.",
+        "likelihood":"Likelihood"
+      }
+    },
+    "centerAxisFrame":
+    {
+      "minus":"-",
+      "plus":"+",
+      "reset":"Reset",
+      "clear":"Clear",
+      "clearLog":"Delete log",
+      "save":"Save"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "InnerGraphContainer",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./InnerGraphContainer.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "YAxisFrame",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./YAxisFrame.js"
+}
