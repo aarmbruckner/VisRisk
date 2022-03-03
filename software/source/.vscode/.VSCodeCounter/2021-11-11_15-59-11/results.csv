@@ -1,0 +1,270 @@
+"filename", "language", "JavaScript", "Batch", "TypeScript", "JSON with Comments", "JSON", "HTML", "CSS", "Markdown", "YAML", "XML", "JavaScript React", "comment", "blank", "total"
+"c:\RiskEstimationRecorder\software\source\.meteor\lib\router.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 5, 29
+"c:\RiskEstimationRecorder\software\source\.vs\VSWorkspaceState.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\RiskEstimationRecorder\software\source\both\i18n\de-DE.i18n.json", "JSON", 0, 0, 0, 0, 324, 0, 0, 0, 0, 0, 0, 0, 0, 324
+"c:\RiskEstimationRecorder\software\source\both\i18n\en-US.i18n.json", "JSON", 0, 0, 0, 0, 326, 0, 0, 0, 0, 0, 0, 0, 0, 326
+"c:\RiskEstimationRecorder\software\source\both\main.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 6
+"c:\RiskEstimationRecorder\software\source\client\Container\ClientContainerBuilder.ts", "TypeScript", 0, 0, 144, 0, 0, 0, 0, 0, 0, 0, 0, 12, 29, 185
+"c:\RiskEstimationRecorder\software\source\client\main.html", "HTML", 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 40, 5, 56
+"c:\RiskEstimationRecorder\software\source\client\main.js", "JavaScript", 202, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 48, 255
+"c:\RiskEstimationRecorder\software\source\client\requireAuth.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 30
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\custom.css", "CSS", 0, 0, 0, 0, 0, 0, 329, 0, 0, 0, 0, 20, 40, 389
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\font-awesome.css", "CSS", 0, 0, 0, 0, 0, 0, 2189, 0, 0, 0, 0, 10, 1, 2200
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\font-awesome.min.css", "CSS", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 1, 5
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\jquery-ui.css", "CSS", 0, 0, 0, 0, 0, 0, 1222, 0, 0, 0, 0, 48, 43, 1313
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\jquery-ui.structure.css", "CSS", 0, 0, 0, 0, 0, 0, 821, 0, 0, 0, 0, 36, 30, 887
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\jquery-ui.theme.css", "CSS", 0, 0, 0, 0, 0, 0, 401, 0, 0, 0, 0, 29, 14, 444
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\simple-line-icons.css", "CSS", 0, 0, 0, 0, 0, 0, 773, 0, 0, 0, 0, 5, 1, 779
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\style.css", "CSS", 0, 0, 0, 0, 0, 0, 8694, 0, 0, 0, 0, 58, 1093, 9845
+"c:\RiskEstimationRecorder\software\source\client\stylesheets\teechart_custom.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\BorderModel\BorderModel.ts", "TypeScript", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 32
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\CalcConfigModel.ts", "TypeScript", 0, 0, 90, 0, 0, 0, 0, 0, 0, 0, 0, 6, 26, 122
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\GridConfigModel.ts", "TypeScript", 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 48
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\NetworkConfig\NetworkConfigModel.ts", "TypeScript", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 35
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\NetworkConfig\NetworkConfigNodeModel.ts", "TypeScript", 0, 0, 88, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 110
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\NetworkConfig\ProviderDependencyModel.ts", "TypeScript", 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 101
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\SurveyConfig\ProviderDependencyModel.ts", "TypeScript", 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 101
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\SurveyConfig\SurveyListModel.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 48
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\SurveyConfig\SurveyModel.ts", "TypeScript", 0, 0, 140, 0, 0, 0, 0, 0, 0, 0, 0, 1, 38, 179
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\SurveyConfig\SurveyNodeModel.ts", "TypeScript", 0, 0, 233, 0, 0, 0, 0, 0, 0, 0, 0, 2, 50, 285
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\SurveyConfig\SurveyProgressModel.ts", "TypeScript", 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 83
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\Configuration\UserConfig\UserModel.ts", "TypeScript", 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 7, 21, 101
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\GraphElementModel\ElementGeometryModel.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 36
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\GraphElementModel\GraphElementModel.ts", "TypeScript", 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 57
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\GridAxisModel\GridAxisModel.ts", "TypeScript", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 0, 62, 12, 117
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\GridInfoModel\GridInfoModel.ts", "TypeScript", 0, 0, 166, 0, 0, 0, 0, 0, 0, 0, 0, 64, 28, 258
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\IJSONParseableModel.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\LevelModel\LevelModel.ts", "TypeScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 27
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\LogInfoModel\LogInfoModel.ts", "TypeScript", 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41, 216
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\NodeModel\NodeModel.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 29
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\NodeModel\NodeModel.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 29
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\PlantModel\NodeModel.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 14, 49
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\PlantModel\NodeModel.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 10, 14, 49
+"c:\RiskEstimationRecorder\software\source\imports\API\Models\ModelTemplates\RectangleInfoModel\RectangleInfoModel.ts", "TypeScript", 0, 0, 236, 0, 0, 0, 0, 0, 0, 0, 0, 14, 72, 322
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Calculator\Calculator.ts", "TypeScript", 0, 0, 337, 0, 0, 0, 0, 0, 0, 0, 0, 91, 127, 555
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Calculator\ICalculator.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Configuration\CalcConfigController.ts", "TypeScript", 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 33
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Configuration\GridConfigController.ts", "TypeScript", 0, 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17, 93
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Configuration\NetworkConfigController.ts", "TypeScript", 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 48
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Configuration\SurveyListConfigController.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 26
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Export\ExportManager.ts", "TypeScript", 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 72
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Import\ImportManager.ts", "TypeScript", 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 58
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Log\LogController.ts", "TypeScript", 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 65
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Eventhandling\GraphEventHandler.ts", "TypeScript", 0, 0, 353, 0, 0, 0, 0, 0, 0, 0, 0, 103, 96, 552
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Extensions\JsonCodec.ts", "TypeScript", 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 53
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Extensions\MxCellAttributeChange.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 26
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Extensions\MxGraphClassConverter.ts", "TypeScript", 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 70
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Extensions\MxGraphUtilities.ts", "TypeScript", 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 6, 14, 77
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\MxGraph\Model\RectangleInfo.ts", "TypeScript", 0, 0, 149, 0, 0, 0, 0, 0, 0, 0, 0, 28, 49, 226
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\StorageHandling\IStorageHandler.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 34
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\StorageHandling\LocalStorageHandler.ts", "TypeScript", 0, 0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 1, 19, 107
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\StorageHandling\MongoDBStorageHandler.ts", "TypeScript", 0, 0, 392, 0, 0, 0, 0, 0, 0, 0, 0, 11, 80, 483
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\StorageHandling\StorageHandlerFactory.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\UserHandling\UserHandler.ts", "TypeScript", 0, 0, 140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 179
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Utilities\HTMLUtilities.ts", "TypeScript", 0, 0, 98, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 115
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Utilities\MiscUtils.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 28
+"c:\RiskEstimationRecorder\software\source\imports\API\Modules\Utilities\TypeScriptHelper.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\RiskEstimationRecorder\software\source\imports\startup\client\routes.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 10
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Breadcrumb\Breadcrumb.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30, 10, 62
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Breadcrumb\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\DiagramControls\DiagramControls.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 503, 27, 92, 622
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\DiagramControls\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Footer\Footer.js", "JavaScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 23
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Footer\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\CenterAxisFrame\CenterAxisFrame.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 208, 0, 36, 244
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\CenterAxisFrame\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\XAxisFrame\XAxisFrame.js", "JavaScript", 134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 36, 171
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\XAxisFrame\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\YAxisFrame\YAxisFrame.js", "JavaScript", 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 135
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\AxisFrames\YAxisFrame\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\InnerGraphContainer\InnerGraphContainer.js", "JavaScript", 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7, 51
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\InnerGraphContainer\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\MxGraphMessageSummary\MxGraphMessageSummary.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 60, 5, 19, 84
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\NoSurveysFound\NoSurveysFound.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 16, 42
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\GraphContainer\SurveyCompleted\SurveyCompleted.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 16, 42
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\DashboardHeader\DashboardHeader.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 4, 28, 135
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\DashboardHeader\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\DefaultHeader\DefaultHeader.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 4, 27, 134
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\DefaultHeader\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\Header.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 4, 25, 131
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Header\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\AxisSubModal\AxisSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 9, 25
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\AxisSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\CalculationsSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 0, 7, 43
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\DataCorrectionSubModal\DataCorrectionSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 196, 0, 14, 210
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\DataCorrectionSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\OpinionPoolingSubModal copy\OpinionPoolingSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 9, 29
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\OpinionPoolingSubModal\OpinionPoolingSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 78, 0, 14, 92
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\OpinionPoolingSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\CalculationsSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\GridSubModal\AxisSubModal\AxisSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 490, 0, 75, 565
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\GridSubModal\AxisSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\GridSubModal\GridSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 188, 0, 35, 223
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SubModals\GridSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\SurveyNodeSettingsModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 136, 1, 28, 165
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveyNodesSettings\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\SubModals\CommonSubModal\CommonSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 0, 14, 57
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\SubModals\CommonSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\SubModals\InviteAllSubModal\InviteAllSubModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 2, 16, 94
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\SubModals\InviteAllSubModal\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\SurveySettingsModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 602, 4, 124, 730
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\SurveySettings\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\UserSettings\UserSettingsModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 131, 0, 31, 162
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Modals\Settings\UserSettings\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Sidebar\Sidebar.js", "JavaScript", 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 107
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\Sidebar\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyEditorDetails\SurveyEditorDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 137, 1, 36, 174
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyEditorDetails\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyEditorTable\SurveyEditorTable.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 0, 14, 80
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyEditorTable\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyNodesDetails\SurveyNodesDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 176, 1, 41, 218
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyNodesDetails\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyNodesTable\SurveyNodesTable.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 128, 10, 30, 168
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveyNodesTable\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveySelectorList\SurveySelectorList.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 221, 0, 42, 263
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\SurveySelectorList\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorDetails\UserEditorDetails.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 221, 2, 41, 264
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorDetails\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorExportImport\UserEditorExportImport.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 1, 22, 99
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorExportImport\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorTable\UserEditorTable.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 142, 0, 33, 175
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\UserEditorTable\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\mxGraph\MxGraphContainer.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 403, 196, 77, 676
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\mxGraph\components\CreateTaskNode.js", "JavaScript", 116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 118
+"c:\RiskEstimationRecorder\software\source\imports\ui\components\mxGraph\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\containers\Full\Full.js", "JavaScript", 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 6, 84
+"c:\RiskEstimationRecorder\software\source\imports\ui\containers\Full\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\helpers\create-container-with-komposer.js", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 32
+"c:\RiskEstimationRecorder\software\source\imports\ui\helpers\create-container.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 4, 5, 37
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Charts\Charts.js", "JavaScript", 1240, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 51, 1298
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Charts\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Buttons\Buttons.js", "JavaScript", 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 204
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Buttons\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Cards\Cards.js", "JavaScript", 327, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 332
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Cards\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Forms\Forms.js", "JavaScript", 998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1003
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Forms\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Modals\Modals.js", "JavaScript", 172, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 189
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Modals\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\SocialButtons\SocialButtons.js", "JavaScript", 291, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 297
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\SocialButtons\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Switches\Switches.js", "JavaScript", 928, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 956
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Switches\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Tables\Tables.js", "JavaScript", 373, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 383
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Tables\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Tabs\Tabs.js", "JavaScript", 184, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 191
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Components\Tabs\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Dashboard\Dashboard.js", "JavaScript", 259, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 71, 330
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Dashboard\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Icons\FontAwesome\FontAwesome.js", "JavaScript", 2625, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 864, 3489
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Icons\FontAwesome\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Icons\SimpleLineIcons\SimpleLineIcons.js", "JavaScript", 568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 187, 755
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Icons\SimpleLineIcons\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\LogView\LogView.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 185, 86, 56, 327
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\LogView\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Login\Login.js", "JavaScript", 97, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 16, 121
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Login\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Page404\Page404.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 31
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Page404\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Page500\Page500.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 31
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Page500\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Register\Register.js", "JavaScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 52
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\Register\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\ResetPassword\ResetPassword.js", "JavaScript", 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 57
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Pages\ResetPassword\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\PoolView\PoolView.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 173, 42, 41, 256
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\PoolView\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\SurveyEditor\SurveyEditor.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 379, 4, 90, 473
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\SurveyEditor\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\UserEditor\UserEditor.jsx", "JavaScript React", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 147, 0, 23, 170
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\UserEditor\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Widgets\Widgets.js", "JavaScript", 517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 520
+"c:\RiskEstimationRecorder\software\source\imports\ui\views\Widgets\package.json", "JSON", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\RiskEstimationRecorder\software\source\package-lock.json", "JSON", 0, 0, 0, 0, 4830, 0, 0, 0, 0, 0, 0, 0, 1, 4831
+"c:\RiskEstimationRecorder\software\source\package.json", "JSON", 0, 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 1, 68
+"c:\RiskEstimationRecorder\software\source\public\fonts\Simple-Line-Icons.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 0, 0, 1, 201
+"c:\RiskEstimationRecorder\software\source\public\fonts\fontawesome-webfont.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 685, 0, 0, 0, 685
+"c:\RiskEstimationRecorder\software\source\public\graphTemplates\editorTemplate.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 0, 1, 26
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\external\jquery\jquery.js", "JavaScript", 7078, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1857, 2074, 11009
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\index.html", "HTML", 0, 0, 0, 0, 0, 447, 0, 0, 0, 0, 0, 16, 97, 560
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.css", "CSS", 0, 0, 0, 0, 0, 0, 1222, 0, 0, 0, 0, 48, 43, 1313
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.js", "JavaScript", 13563, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2075, 3068, 18706
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.min.css", "CSS", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 5, 1, 7
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.min.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 13
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.structure.css", "CSS", 0, 0, 0, 0, 0, 0, 821, 0, 0, 0, 0, 36, 30, 887
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.structure.min.css", "CSS", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 1, 5
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.theme.css", "CSS", 0, 0, 0, 0, 0, 0, 401, 0, 0, 0, 0, 29, 14, 444
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\jquery-ui.theme.min.css", "CSS", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 1, 5
+"c:\RiskEstimationRecorder\software\source\public\js\jquery-ui\package.json", "JSON", 0, 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 1, 75
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\.travis.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 7
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\Gruntfile.js", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 5, 65
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 30, 70
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\bower.json", "JSON", 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\bootstrap.css", "CSS", 0, 0, 0, 0, 0, 0, 5187, 0, 0, 0, 0, 17, 955, 6159
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\docs.css", "CSS", 0, 0, 0, 0, 0, 0, 249, 0, 0, 0, 0, 5, 19, 273
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\docs.js", "JavaScript", 390, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 73, 467
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\jquery-1.9.1.js", "JavaScript", 6578, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1504, 1515, 9597
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\jquery-2.1.0.js", "JavaScript", 6125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1464, 1523, 9112
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\prettify.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 29
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\docs\toc.js", "JavaScript", 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 12, 109
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\example\example.js", "JavaScript", 208, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 44, 254
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\example\index.html", "HTML", 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 30, 150
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\example\testcase.html", "HTML", 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 17, 94
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-ar.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 18
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-de.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-dk.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-es.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-fa.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-fi.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-fr.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-gr.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-he.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-hr.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-id.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-it.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 17
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-ja.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-lt.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-nl.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 18
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-pl.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-pt-br.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-ru.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-sv.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-tr.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-zh-cn.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\i18n\jquery.spectrum-zh-tw.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 19
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\index.html", "HTML", 0, 0, 0, 0, 0, 1047, 0, 0, 0, 0, 0, 5, 159, 1211
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\package.json", "JSON", 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 1, 25
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\spectrum.css", "CSS", 0, 0, 0, 0, 0, 0, 438, 0, 0, 0, 0, 28, 42, 508
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\spectrum.js", "JavaScript", 1807, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 194, 323, 2324
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\spectrum_custom.css", "CSS", 0, 0, 0, 0, 0, 0, 438, 0, 0, 0, 0, 28, 42, 508
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\index.html", "HTML", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 1, 18
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\loaders.html", "HTML", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 15
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\loaders.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 23
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\qunit.css", "CSS", 0, 0, 0, 0, 0, 0, 162, 0, 0, 0, 0, 18, 55, 235
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\qunit.js", "JavaScript", 1469, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 242, 266, 1977
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\require.js", "JavaScript", 1249, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 562, 265, 2076
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\test\tests.js", "JavaScript", 526, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 179, 731
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\themes\index.html", "HTML", 0, 0, 0, 0, 0, 92, 0, 0, 0, 0, 0, 0, 22, 114
+"c:\RiskEstimationRecorder\software\source\public\js\spectrumColorPicker\themes\sp-dark.css", "CSS", 0, 0, 0, 0, 0, 0, 82, 0, 0, 0, 0, 7, 40, 129
+"c:\RiskEstimationRecorder\software\source\server\API\Authenthication\Methods\Methods.ts", "TypeScript", 0, 0, 129, 0, 0, 0, 0, 0, 0, 0, 0, 2, 28, 159
+"c:\RiskEstimationRecorder\software\source\server\API\Authenthication\server\AuthenthicationHandler.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 34
+"c:\RiskEstimationRecorder\software\source\server\API\Export\Methods\Methods.ts", "TypeScript", 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 68
+"c:\RiskEstimationRecorder\software\source\server\API\Mails\MailUtils.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 29
+"c:\RiskEstimationRecorder\software\source\server\API\Mails\Methods\Methods.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 6, 11, 49
+"c:\RiskEstimationRecorder\software\source\server\API\ModuleAccess\Definition\IModuleAccess.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 8
+"c:\RiskEstimationRecorder\software\source\server\API\ModuleAccess\Methods\Methods.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 20
+"c:\RiskEstimationRecorder\software\source\server\API\ModuleAccess\ModuleAccess.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 20
+"c:\RiskEstimationRecorder\software\source\server\API\StorageHandling\MongoDBServerManager.ts", "TypeScript", 0, 0, 548, 0, 0, 0, 0, 0, 0, 0, 0, 109, 109, 766
+"c:\RiskEstimationRecorder\software\source\server\Container\ServerContainerBuilder.js", "JavaScript", 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 29, 154
+"c:\RiskEstimationRecorder\software\source\server\main.js", "JavaScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 45
+"c:\RiskEstimationRecorder\software\source\settings.json", "JSON", 0, 0, 0, 0, 259, 0, 0, 0, 0, 0, 0, 0, 2, 261
+"c:\RiskEstimationRecorder\software\source\settings_deployed.json", "JSON", 0, 0, 0, 0, 259, 0, 0, 0, 0, 0, 0, 0, 1, 260
+"c:\RiskEstimationRecorder\software\source\settings_testing.json", "JSON", 0, 0, 0, 0, 259, 0, 0, 0, 0, 0, 0, 0, 1, 260
+"c:\RiskEstimationRecorder\software\source\startServerDep.bat", "Batch", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"c:\RiskEstimationRecorder\software\source\startServerDev.bat", "Batch", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\RiskEstimationRecorder\software\source\testing\MailUtils.tests.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"c:\RiskEstimationRecorder\software\source\testing\MongoDBServerManager.tests.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 15
+"c:\RiskEstimationRecorder\software\source\testing\global.tests.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 29
+"c:\RiskEstimationRecorder\software\source\tsconfig.json", "JSON", 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 22
+"c:\RiskEstimationRecorder\software\source\workskapce.code-workspace", "JSON with Comments", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8
+"Total", "-", 49391, 14, 4858, 8, 6796, 1826, 23433, 40, 7, 910, 5625, 9595, 16339, 118842

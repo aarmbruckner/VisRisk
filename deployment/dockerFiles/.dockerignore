@@ -1,0 +1,9 @@
+.meteor/local
+packages/*/.build*
+node_modules
+programs/server/npm-debug.log
+programs/server/node_modules
+log
+.vs
+.vscode
+npm-debug.log

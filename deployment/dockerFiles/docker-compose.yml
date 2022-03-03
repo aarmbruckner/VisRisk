@@ -1,0 +1,23 @@
+version: "3"
+services:
+   app:
+       container_name: riskest
+       restart: always
+       build: .
+       ports:
+         - "3000:3000"
+       links:
+         - mongodb
+       env_file:
+         - docker_deployed.env
+   mongodb:
+      container_name: mongodb
+      command: ["--bind_ip_all"]
+      image: mongo
+      volumes:
+         - ./data:/data/db
+      ports:
+      - "27017:27017"
+      env_file:
+      - docker_deployed.env
+      #command: ["mongod", "-f", "/etc/mongo/mongod.conf"]

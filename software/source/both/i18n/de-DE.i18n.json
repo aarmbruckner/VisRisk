@@ -1,0 +1,324 @@
+{
+  "_locale": "de-DE",
+  "_namespace": "common",
+  "info":
+  {
+    "version" : "Version"
+  },
+  "exceptions":
+  {
+    "mailSendError":"E-Mail konnte nicht gesendet werden.",
+    "userUpdateError":"BenutzerIn konnte nicht aktualisiert werden.",
+    "userCreationError":"BenutzerIn konnte nicht erstellt werden.",
+    "importError":"Fehler während Importvorgang."
+  },
+  "mails":
+  {
+    "defaultLoginTokenEmailText":"Einladung für Risikoabschätzung Umfrage: ",
+    "surveyText":"Gültig für folgende Umfrage: "
+  },
+  "loginPage":
+  {
+    "login": "Login",
+    "signIn": "Bitte melden Sie sich an",
+    "username": "BenutzerInnenname",
+    "password": "Passwort",
+    "loginFailed": "Anmeldung fehlgeschlagen",
+    "connectionRefused": "Verbindung zu Datenbank fehlgeschlagen",
+    "connectionTimeOut": "Verbindungstimeout ",
+    "noLoginInfoProvided": "Keine Anmeldeinformationen!",
+    "wrongPassword": "Falsches Passwort",
+    "accessDenied":"Verbindung abgelehnt",
+    "sessionLoggedOff":"Sitzung nicht mehr gültig",
+    "passwordIncorrect": "Passwort ungültig",
+    "noUserFound": "Kein BenutzerIn gefunden.",
+    "forgotPassword":"Password vergessen?"
+  },
+  "resetPassword":
+  {
+    "usernameEmail":"BenutzerInnenname/E-Mail",
+    "resetPassword":"Passwort zurücksetzen",
+    "commit":"Bestätigen",
+    "passwordReseted":"Passwort zurückgesetzt"
+  },
+  "sidebar":
+  {
+    "menu": "Menü",
+    "dashboard": "Übersicht",
+    "grid": "Aktuelles Diagramm",
+    "log": "Log",
+    "pool": "Pooling",
+    "simulation": "Simulation",
+    "surveyEditor": "Umfrageeditor",
+    "templates": "Vorlagen",
+    "userEditor":"BenutzerInneneditor"
+  },
+  "header":
+  {
+    "dashboard": "Übersicht",
+    "username": "BenutzerInnenname",
+    "file":"Datei",
+    "settings":"Einstellungen",
+    "help":"Hilfe",
+    "logout":"Ausloggen"
+  },
+  "topMenu":
+  {
+    "selectSurvey": "Umfrage: ",
+    "selectSurveyNode": "Frage: ",
+    "description":"Beschreibung: ",
+    "node":"Element",
+    "uncleaned":"unbereinigt",
+    "cleaned":"bereinigt",
+    "revertToOrigin":"Auf Ursprung zurücksetzen",
+    "saveChanges":"Änderungen speichern",
+    "pool":"pool"
+  },
+  "diagramControls":
+  {
+    "xAxis":"X-Achse",
+    "yAxis":"Y-Achse",
+    "previousQuestion":"Vorherige Frage",
+    "nextQuestion":"Nächste Frage",
+    "commitAnswer":"Antwort speichern",
+    "finishSurvey":"Umfrage abschließen"
+  },
+  "userExportImport":
+  {
+    "exportUsers":"exportieren",
+    "importUsers":"importieren",
+    "exportImportHeader":"BenutzerInnen importieren/exportieren"
+  },
+  "commonUI":
+  {
+    "OK":"OK",
+    "Cancel":"Abbrechen",
+    "SubmitNewItem":"Hinzufügen als neues Element"
+  },
+  "log":
+  {
+    "logMessageSummary":
+    {
+      "impactFrom":"Schaden von",
+      "to":"zu",
+      "likehoodFrom":"Wahrscheinlichkeit von"
+    },
+    "surveyFinished":"Umfrage beendet!",
+    "answerCommited":"Antwort gespeichert!"
+  },
+  "modals":
+  {
+    "surveyInvite":
+    {
+      "header":"Alle BenutzerInnen einladen"
+    },
+    "settings":{
+      "header":"Einstellungen",
+      "xAxis":"X-Achse",
+      "yAxis":"Y-Achse",
+      "save":"Speichern",
+      "GridHeader":"Diagramm",
+      "CalculationsHeader":"Berechnungen",
+      "commonHeader":"Allgemein",
+      "usersHeader":"BenutzerInnen",
+      "usersExistingHeader":"BenutzerInnen",
+      "usersEmailHeader":"E-Mail Einladungen"
+    },
+    "gridModal":{
+      "xAxisHeader":"X-Achse",
+      "yAxisHeader":"Y-Achse",
+      "colorStops":"Farbverlauf",
+      "colorStop1":"Startfarbe",
+      "colorStop2":"Endfarbe",
+      "riskRectangleColor":"Rechteck Farbe",
+      "rectangleOptions":"Einschätzungs Rechteck"
+    },
+    "commonModal":{
+      "exitURL":"URL nach Umfrage"
+    },
+    "axisModal":{
+      "Name":"Name",
+      "AddSubLevel":"Unterteilung hinzufügen",
+      "SubLevels":"Unterteilungen",
+      "SubLevel":"Unterteilung",
+      "Description":"Beschreibung",
+      "defaultBorder":"Grenzwert",
+      "Borders":"Grenzen",
+      "BordersEnabled":"Grenzen aktivierbar",
+      "enable":"aktiv",
+      "Text":"Text",
+      "add":"hinzufügen",
+      "remove":"entfernen",
+      "up":"rauf",
+      "down":"runter"
+    },
+    "calculationsModal":{
+      "OpinionPooling":"Befragungspool",
+      "decimalPointAcc":"Dezimalstellengenauigkeit",
+      "Epsilon":"Epsilon",
+      "DataCorrection":"Datenkorrektur",
+      "percentageX":"Prozent X",
+      "percentageY":"Prozent Y",
+      "enableManualDelta":"Manuelles Delta aktiv",
+      "deltaXLow":"Delta X Niedrig",
+      "deltaXHigh":"Delta X Hoch",
+      "deltaYLow":"Delta Y Niedrig",
+      "deltaYHigh":"Delta Y Hoch"
+    },
+    "opinionModal":{
+      "header":"Meinungsbildung",
+      "decimalPointAccuracy":"Dezimalstellengenauigkeit",
+      "Epsilon":"Epsilon",
+      "decimalRange":"(0 <= x <= 15)",
+      "epsilonRange":"(0.0 < x <= 1.0)"
+    },
+    "surveyEditor":{
+      "surveyHeader":"Umfragen",
+      "noDataAvailable":"No data available!",
+      "surveyNodeHeader":"Fragen",
+      "surveyTable":
+      {
+        "surveyName":"Name",
+        "delete":"Löschen",
+        "surveyDescription":"Beschreibung",
+        "surveyId":"Id",
+        "surveyNumber":"#"
+      },
+      "surveyDetails":
+      {
+        "surveyName":"Name",
+        "surveyDescription":"Beschreibung",
+        "export":"Exportieren",
+        "advancedOptions":"Erweiterte Einstellungen"
+      },
+      "surveyNodeTable":
+      {
+        "surveyNodeName":"Name",
+        "delete":"Löschen",
+        "surveyNodeDescription":"Beschreibung",
+        "surveyNodeNumber":"#",
+        "surveyNodeId":"Id"
+      },
+      "surveyNodeDetails":
+      {
+        "surveyName":"Name",
+        "surveyDescription":"Beschreibung",
+        "advancedOptions":"Erweiterte Einstellungen",
+        "export":"Exportieren",
+        "maxNumberOfVotes":"Anzahl möglicher Abstimmungen"
+      }
+    },
+    "userEditor":{
+      "userHeader":"BenutzerInnen",
+      "userTable":
+      {
+        "userName":"BenutzerInnenname",
+        "delete":"Löschen",
+        "userDescription":"Beschreibung",
+        "userId":"Id",
+        "userEmail":"E-Mail",
+        "userReset":"Neu Starten",
+        "addAdmin":"Admin einladen",
+        "AddPart":"TeilnehmrIn einladen",
+        "AddAllUsers":"Alle einladen",
+        "userDelete":"Löschen",
+        "loginToken":"Logintoken"
+      },
+      "userDetails":
+      {
+        "advancedOptions":"Erweiterte Einstellungen",
+        "userName":"BenutzerInnenname",
+        "delete":"Löschen",
+        "userDescription":"Beschreibung",
+        "userId":"Id",
+        "userEmail":"E-Mail",
+        "userPassword":"Passwort",
+        "adminRole":"AdministratorIn",
+        "userRole":"BenutzerInnen",
+        "userRoles":"Benutzerrollen",
+        "loginToken":"Logintoken"
+      }
+    },
+    "dataCorrectionModal":{
+      "header":"Datenkorrektur",
+      "percentageX":"Prozent X",
+      "percentageY":"Prozent Y",
+      "enableManualDelta":"manuelles Delta aktiv",
+      "deltaXLow":"Delta X Unten",
+      "deltaXHigh":"Delta X Oben",
+      "deltaYLow":"Delta Y Unten",
+      "deltaYHigh":"Delta Y Oben",
+      "percentageXRange":"(0.0 <= x <= 0.5)",
+      "percentageYRange":"(0.0 <= x <= 0.5)",
+      "deltaXLowRange":"(0.0 <= x <= 1.0)",
+      "deltaXHighRange":"(0.0 <= x <= 1.0)",
+      "deltaYLowRange":"(0.0 <= x <= 1.0)",
+      "deltaYHighRange":"(0.0 <= x <= 1.0)"
+    },
+    "userModal":{
+      "loginToken":"Logintoken",
+      "generateToken":"Logintoken generieren",
+      "sendToken":"Logintoken per E-Mail senden",
+      "loginTokenSubject":"Riskestimationrecorder Logintoken"
+    },
+    "surveyModal":{
+      "surveyParams":"URL Parameter",
+      "customText":"E-Mail Text",
+      "participants":"TeilnehmerInnen",
+      "administrators":"AdministratorInnen",
+      "allUsers":"Alle BenutzerInnen",
+      "email":"E-Mail",
+      "username":"BenutzerInnenname",
+      "inviteEmailParticipant":"TeilnehmerIn per E-Mail einladen",
+      "inviteEmailAdministrator":"AdministratorIn per E-Mail einladen",
+      "noSurveysFound":"Keine Umfragen gefunden",
+      "surveyCompleted":"Umfrage beendet",
+      "surveyAlreadyCompleted":"Umfrage wurde bereits durchgeführt"
+    }
+  },
+  "graphContainer":
+  {
+    "events":
+    {
+      "saveToLogSuccess":"Speichern in Log erfolgreich",
+      "saveToLogFailure":"Speichern in Log fehgeschlagen",
+      "logGraphFailure":"Konnte Log nicht laden",
+      "logGraphSaveFailure":"Konnte Log nicht speichern",
+      "logClearedSuccess":"Log erfolgreich gelöscht",
+      "logClearedFailure":"Konnte Log nicht löschen",
+      "failure":"Fehler"
+    },
+    "axes":
+    {
+      "impactScale":
+      {
+        "low":"Niedrig",
+        "lowDescription":"Ein niedriger Schaden, sodass kein Review bei einem Projekt Stakeholder erforderlich wäre.",
+        "medium":"Mittel",
+        "mediumDescription":"Mittlerer Schaden an dem Projektbereich, Plan, Kosten oder Qualität, welcher ein explizites Review und Bestätigung des Projektmanagers erfordern würde.",
+        "high":"Hoch",
+        "highDescription":"Signifikanter Schaden an dem Projektbereich, Plan, Kosten oder Qualität.",
+        "impact":"Schaden"
+      },
+      "likelihoodScale":
+      {
+        "low":"Niedrig",
+        "lowDescription":"Vorfall könnte stattfinden, weniger als 10% Wahrscheinlichkeit.",
+        "medium":"Mittel",
+        "mediumDescription":"Vorfall tritt eventuell mehrmals pro Jahr auf. 10-50% Wahrscheinlichkeit. ",
+        "high":"Hoch",
+        "highDescription":"Vorfall tritt wahrscheinlich mehrmals pro Jahr auf. Mehr als 50% Eintrittswahrscheinlichkeit.",
+        "likelihood":"Wahrscheinlichkeit"
+      }
+    },
+    "centerAxisFrame":
+    {
+      "minus":"-",
+      "plus":"+",
+      "reset":"Zurücksetzen",
+      "clear":"Löschen",
+      "clearLog":"Log löschen",
+      "save":"Speichern"
+    }
+  }
+}
