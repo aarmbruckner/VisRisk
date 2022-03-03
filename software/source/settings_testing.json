@@ -2,7 +2,7 @@
   "public": {
     "appInfo":
     {
-      "version" : "0.9.3",
+      "version" : "1.0",
       "serverUrl":"http://127.0.0.1:3000",
       "httpsServerUrl":"https://127.0.0.1:3430",
       "httpsPort":3430,

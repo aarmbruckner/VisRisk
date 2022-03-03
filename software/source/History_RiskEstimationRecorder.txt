@@ -1,5 +1,11 @@
 Riskestimationrecorder
 =====
+Version: 1.0, PublishDate: 2022-03-03
+-----------------------------------------
+release version
+
+#changed several file paths
+
 Version: 0.9.4, PublishDate: 2021-12-14
 -----------------------------------------
 * fixed bugs that caused the application to crash when the database is empty
