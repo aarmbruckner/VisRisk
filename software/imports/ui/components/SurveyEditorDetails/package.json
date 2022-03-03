@@ -1,6 +1,0 @@
-{
-  "name": "SurveyEditorTable",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./SurveyEditorDetails.jsx"
-}

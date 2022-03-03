@@ -1,6 +1,0 @@
-{
-  "name": "LogView",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./LogView.jsx"
-}
